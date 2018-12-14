@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  margin: 30px auto;
+  max-width: 1000px;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  padding: 30px 20px;
+}
+
+h1 {
+  color: white;
+  font-size: 20pt
+}
+
+h3 {
+  padding: 10px 0px 1px 0px;
+  color: white;
+  font-size: 20pt;
+}
+
+/* link text */
+a {
+color: white;
+text-decoration: none;
+}
+
+
+/* Centers images */
+
+img {
+  margin-left: 0px;
+}
